@@ -1,0 +1,1129 @@
+depart,arrive,distance_min,distance_max,distance_moy,virage_min,virage_max,prix_moy
+Centre des handicapes,mokolo-marché,800,4100,2300,7,10,225
+Centre des handicapes,Total Melen,6000,9300,7500,3,5,175
+Centre des handicapes,Carefour EMIA,114,3414,1614,7,9,225
+Centre des handicapes,Bastos(carrefour),3797,7097,5297,14,20,350
+Centre des handicapes,Cité verte,800,4100,2300,10,16,275
+Centre des handicapes,Madagascar,700,4000,2200,14,15,275
+Centre des handicapes,Carriere,2200,5500,3700,9,11,250
+Centre des handicapes,Bastos,4900,8200,6400,14,20,350
+Centre des handicapes,Nkom-kana,2800,6100,4300,14,19,300
+Centre des handicapes,Nkolbisson,3200,6500,4700,14,26,300
+Centre des handicapes,Tsinga,2900,6200,4400,13,15,300
+Centre des handicapes,Briqueterie,1400,4700,2900,14,15,250
+Centre des handicapes,Ecole de police(pharmacie),2400,5700,3900,17,17,250
+Centre des handicapes,Ecole des postes(immeuble cyberlink),1000,4300,2500,5,6,250
+Centre des handicapes,Emombo(Chapelle),6100,9400,7600,5,9,375
+Centre des handicapes,Mimboman(don bosco),9100,12400,10600,13,15,450
+Centre des handicapes,Essos(marché),5900,9200,7400,7,10,300
+Centre des handicapes,Omnisport,7200,10500,8700,11,13,350
+Centre des handicapes,Ngousso(station),9000,12300,10500,8,13,400
+Centre des handicapes,Damas(rond point),5500,8800,7000,5,11,250
+Centre des handicapes,Tam-tam,3700,7000,5200,4,12,225
+Centre des handicapes,Nsimeyong(pharmacie),3100,6400,4600,4,11,250
+Centre des handicapes,Accacia(marché),1900,5200,3400,4,8,150
+Centre des handicapes,Etoudi(marché),8200,11500,9700,8,14,400
+Centre des handicapes,Santa barbara(cyberlink),9300,12600,10800,14,17,400
+Centre des handicapes,Emana,8900,12200,10400,7,13,300
+Centre des handicapes,(Mission Catholique)Nkozoa,15100,18400,16600,7,7,300
+Centre des handicapes,Nlongkak,3900,7200,5400,8,12,375
+Centre des handicapes,Anguissa(lycée),6200,9500,7700,8,11,450
+Centre des handicapes,Ekounou,5000,8300,6500,8,13,450
+Centre des handicapes,Mvan,7800,11100,9300,8,12,500
+Centre des handicapes,Mvog-bi,3300,6600,4800,7,10,400
+Centre des handicapes,(Basilique Marie Reine des Apotres)Mvolyé,2300,5600,3800,4,12,300
+Centre des handicapes,Fouda,2500,5800,4000,8,8,500
+Centre des handicapes,Marché central,2400,5700,3900,7,7,250
+Centre des handicapes,Mendong(carrefour banane),3500,6800,5000,8,11,175
+Centre des handicapes,(Lycée)Mballa II,5900,9200,7400,7,9,400
+Centre des handicapes,Cradat(restaurant),700,4000,2200,5,6,250
+Centre des handicapes,Efoulan(carrefour club france),3600,6900,5100,4,8,250
+Centre des handicapes,Eleveur (tradex college ebanda),9900,13200,11400,8,13,100
+Centre des handicapes,Mvog-ada,4200,7500,5700,6,9,250
+Centre des handicapes,hotel de ville(avenue des banques),3000,6300,4500,7,11,300
+Centre des handicapes,TKC(carrefour),2200,5500,3700,3,8,100
+Centre des handicapes,Carrefour MEEC,-400,2900,1100,3,3,150
+Centre des handicapes,Mvog Atangana Mballa(pharmacie),3200,6500,4700,6,8,100
+Centre des handicapes,Ngoa Ekélé (lycée),500,3800,2000,5,8,250
+Centre des handicapes,Chateau(Université de Yaoundé I),1300,4600,2800,7,9,225
+Centre des handicapes,Ekoundoum,102500,105800,104000,13,20,1000
+mokolo-marché,Total Melen,1600,1700,1600,4,4,100
+mokolo-marché,Carefour EMIA,2400,2700,2700,4,10,150
+mokolo-marché,Bastos(carrefour),3400,4600,4300,4,9,250
+mokolo-marché,Cité verte,1300,1800,1500,6,6,100
+mokolo-marché,Madagascar,1300,1800,1500,2,3,100
+mokolo-marché,Bastos,4300,4800,4500,4,9,250
+mokolo-marché,Nkom-kana,1800,2300,2000,4,12,200
+mokolo-marché,Nkolbisson,6100,6600,6300,6,9,250
+mokolo-marché,Tsinga,1500,2000,1700,5,5,100
+mokolo-marché,Briqueterie,1300,1800,1500,4,9,150
+mokolo-marché,Ecole de police(pharmacie),2300,2800,2500,7,10,200
+mokolo-marché,Ecole des postes(immeuble cyberlink),3800,4300,4000,8,10,250
+mokolo-marché,Emombo(Chapelle),6100,6600,6300,8,11,400
+mokolo-marché,Mimboman(don bosco),8000,8500,8200,13,20,400
+mokolo-marché,Essos(marché),5900,6400,6100,9,12,300
+mokolo-marché,Omnisport,6800,7300,7000,13,16,400
+mokolo-marché,Ngousso(station),8600,9100,8800,7,19,300
+mokolo-marché,Damas(rond point),10200,10700,10400,9,10,300
+mokolo-marché,Tam-tam,6700,7200,6900,9,20,250
+mokolo-marché,Nsimeyong(pharmacie),5900,6400,6100,12,17,250
+mokolo-marché,Accacia(marché),4500,5000,4700,6,15,200
+mokolo-marché,Etoudi(marché),7700,8200,7900,6,11,500
+mokolo-marché,Santa barbara(cyberlink),8800,9300,9000,17,21,500
+mokolo-marché,Emana,8400,8900,8600,11,14,500
+mokolo-marché,(Mission Catholique)Nkozoa,14700,15200,14900,7,7,400
+mokolo-marché,Nlongkak,3700,4200,3900,10,12,300
+mokolo-marché,Anguissa(lycée),5800,6300,6000,11,13,250
+mokolo-marché,Ekounou,6700,7200,6900,10,14,350
+mokolo-marché,Mvan,10300,10800,10500,8,15,300
+mokolo-marché,Mvog-bi,4400,4900,4600,9,13,250
+mokolo-marché,(Basilique Marie Reine des Apotres)Mvolyé,6000,6500,6200,7,11,250
+mokolo-marché,Fouda,2100,2600,2300,5,6,250
+mokolo-marché,Marché central,2600,3100,2800,11,19,225
+mokolo-marché,Mendong(carrefour banane),7800,8300,8000,10,14,300
+mokolo-marché,(Lycée)Mballa II,5500,6000,5700,11,14,300
+mokolo-marché,Cradat(restaurant),3600,4100,3800,9,10,250
+mokolo-marché,Efoulan(carrefour club france),6900,7400,7100,9,10,250
+mokolo-marché,Eleveur (tradex college ebanda),9500,10000,9700,18,20,400
+mokolo-marché,Mvog-ada,4100,4600,4300,7,15,300
+mokolo-marché,hotel de ville(avenue des banques),2800,3300,3000,7,10,250
+mokolo-marché,TKC(carrefour),5300,6300,6300,7,12,250
+mokolo-marché,Carrefour MEEC,2500,2700,2700,5,7,100
+mokolo-marché,Mvog Atangana Mballa(pharmacie),4700,5300,4700,9,10,250
+mokolo-marché,Ngoa Ekélé (lycée),3300,3400,3300,7,9,250
+mokolo-marché,Chateau(Université de Yaoundé I),3700,3800,3700,7,9,250
+mokolo-marché,Ekoundoum,103000,103100,103000,13,21,1000
+mokolo-marché,Carefour EMIA,1614,1714,1614,1,1,100
+mokolo-marché,Bastos(carrefour),4597,4697,4597,10,11,500
+mokolo-marché,Cité verte,2000,2100,2000,7,10,200
+mokolo-marché,Madagascar,3600,2100,3600,8,11,250
+mokolo-marché,Bastos,6700,3700,6700,15,16,400
+mokolo-marché,Nkom-kana,4300,6800,4300,13,15,300
+mokolo-marché,Nkolbisson,5800,6800,5800,8,13,300
+mokolo-marché,Tsinga,3000,4400,3000,9,15,400
+mokolo-marché,Briqueterie,2900,5900,2900,4,6,175
+mokolo-marché,Ecole de police(pharmacie),3900,3100,3900,8,10,200
+mokolo-marché,Ecole des postes(immeuble cyberlink),2500,3000,2500,6,12,150
+mokolo-marché,Emombo(Chapelle),6900,4000,6900,9,13,300
+mokolo-marché,Mimboman(don bosco),8900,2600,8900,14,20,400
+mokolo-marché,Essos(marché),6700,7000,6700,10,13,300
+mokolo-marché,Omnisport,7900,9000,7900,11,14,400
+mokolo-marché,Ngousso(station),5900,6800,5900,11,18,300
+mokolo-marché,Damas(rond point),8400,8000,8400,8,9,300
+mokolo-marché,Tam-tam,5600,6000,5600,6,8,250
+mokolo-marché,Nsimeyong(pharmacie),4800,8500,4800,6,8,250
+mokolo-marché,Accacia(marché),3500,5700,3500,9,11,200
+mokolo-marché,Etoudi(marché),8900,4900,8900,7,15,500
+mokolo-marché,Santa barbara(cyberlink),10000,3600,10000,11,18,500
+mokolo-marché,Emana,8900,9000,8900,7,7,400
+mokolo-marché,(Mission Catholique)Nkozoa,15900,10100,15900,7,7,300
+mokolo-marché,Nlongkak,4700,9000,4700,9,13,250
+mokolo-marché,Anguissa(lycée),6700,16000,6700,8,13,300
+mokolo-marché,Ekounou,5800,4800,5800,11,12,400
+mokolo-marché,Mvan,8700,6800,8700,14,17,400
+mokolo-marché,Mvog-bi,4100,5900,4100,9,10,250
+mokolo-marché,(Basilique Marie Reine des Apotres)Mvolyé,4300,8800,4300,6,9,250
+mokolo-marché,Fouda,3400,4200,3400,11,15,300
+mokolo-marché,Marché central,3200,4400,3200,12,16,200
+mokolo-marché,Mendong(carrefour banane),6100,3500,6100,16,21,250
+mokolo-marché,(Lycée)Mballa II,6600,3300,6600,8,16,250
+mokolo-marché,Cradat(restaurant),2400,6200,2400,5,10,200
+mokolo-marché,Efoulan(carrefour club france),5200,6700,5200,8,10,300
+mokolo-marché,Eleveur (tradex college ebanda),10700,2500,10700,17,21,400
+mokolo-marché,Mvog-ada,5200,5300,5200,8,14,250
+mokolo-marché,hotel de ville(avenue des banques),4200,10800,4200,9,13,250
+mokolo-marché,TKC(carrefour),4800,5300,4800,8,9,250
+mokolo-marché,Carrefour MEEC,2100,4300,2100,6,7,200
+mokolo-marché,Mvog Atangana Mballa(pharmacie),3200,4900,3200,8,8,250
+mokolo-marché,Ngoa Ekélé (lycée),1300,2200,1300,5,5,100
+mokolo-marché,Chateau(Université de Yaoundé I),1600,3300,1600,5,5,100
+mokolo-marché,Ekoundoum,103000,1400,103000,11,20,1000
+Carefour EMIA,Bastos(carrefour),4500,5200,4900,6,8,250
+Carefour EMIA,Cité verte,2500,3200,2900,10,11,250
+Carefour EMIA,Madagascar,4000,4700,4400,7,11,200
+Carefour EMIA,Bastos,5500,6200,5900,9,13,300
+Carefour EMIA,Nkom-kana,4500,5200,4900,7,16,200
+Carefour EMIA,Nkolbisson,5900,6600,6300,5,7,250
+Carefour EMIA,Tsinga,4100,4800,4500,8,12,300
+Carefour EMIA,Briqueterie,1700,2400,2100,4,4,150
+Carefour EMIA,Ecole de police(pharmacie),2700,3400,3100,6,10,200
+Carefour EMIA,Ecole des postes(immeuble cyberlink),1400,2100,1800,4,8,100
+Carefour EMIA,Emombo(Chapelle),5500,6200,5900,7,10,250
+Carefour EMIA,Mimboman(don bosco),7400,8100,7800,12,16,300
+Carefour EMIA,Essos(marché),5300,6000,5700,8,12,250
+Carefour EMIA,Omnisport,5500,6200,5900,11,12,250
+Carefour EMIA,Ngousso(station),8600,9300,9000,13,21,250
+Carefour EMIA,Damas(rond point),7300,8000,7700,6,7,250
+Carefour EMIA,Tam-tam,4700,5400,5100,6,7,250
+Carefour EMIA,Nsimeyong(pharmacie),3900,4600,4300,6,7,250
+Carefour EMIA,Accacia(marché),3600,4300,4000,6,8,150
+Carefour EMIA,Etoudi(marché),7700,8400,8100,7,13,300
+Carefour EMIA,Santa barbara(cyberlink),8800,9500,9200,8,12,300
+Carefour EMIA,Emana,8400,9100,8800,7,16,300
+Carefour EMIA,(Mission Catholique)Nkozoa,14700,15400,15100,6,6,600
+Carefour EMIA,Nlongkak,3500,4200,3900,7,10,250
+Carefour EMIA,Anguissa(lycée),5700,6400,6100,10,12,250
+Carefour EMIA,Ekounou,4600,5300,5000,9,10,300
+Carefour EMIA,Mvan,7300,8000,7700,6,15,250
+Carefour EMIA,Mvog-bi,2900,3600,3300,7,8,200
+Carefour EMIA,(Basilique Marie Reine des Apotres)Mvolyé,3100,3800,3500,5,9,200
+Carefour EMIA,Fouda,3700,4400,4100,8,11,250
+Carefour EMIA,Marché central,2000,2700,2400,5,11,100
+Carefour EMIA,Mendong(carrefour banane),6200,6900,6600,12,16,300
+Carefour EMIA,(Lycée)Mballa II,5500,6200,5900,4,8,250
+Carefour EMIA,Cradat(restaurant),1200,1900,1600,5,8,100
+Carefour EMIA,Efoulan(carrefour club france),4000,4700,4400,4,8,250
+Carefour EMIA,Eleveur (tradex college ebanda),9500,10200,9900,12,19,300
+Carefour EMIA,Mvog-ada,3500,4200,3900,6,12,250
+Carefour EMIA,hotel de ville(avenue des banques),2500,3200,2900,7,11,150
+Carefour EMIA,TKC(carrefour),4900,5600,5300,5,9,250
+Carefour EMIA,Carrefour MEEC,2300,3000,2700,5,6,150
+Carefour EMIA,Mvog Atangana Mballa(pharmacie),2900,4500,2900,7,7,150
+Carefour EMIA,Ngoa Ekélé (lycée),500,700,500,3,3,100
+Carefour EMIA,Chateau(Université de Yaoundé I),1000,1000,1000,3,3,100
+Carefour EMIA,Ekoundoum,102000,103000,102500,10,18,450
+Bastos(carrefour),Cité verte,4200,5600,4600,8,15,250
+Bastos(carrefour),Madagascar,4100,5500,4500,7,9,250
+Bastos(carrefour),Bastos,400,1800,800,1,1,100
+Bastos(carrefour),Nkom-kana,2700,4100,3100,8,10,150
+Bastos(carrefour),Nkolbisson,9800,11200,10200,11,15,350
+Bastos(carrefour),Tsinga,1300,2700,1700,3,9,150
+Bastos(carrefour),Briqueterie,2700,4100,3100,7,11,250
+Bastos(carrefour),Ecole de police(pharmacie),1500,2900,1900,5,7,250
+Bastos(carrefour),Ecole des postes(immeuble cyberlink),5800,7200,6200,13,16,300
+Bastos(carrefour),Emombo(Chapelle),6500,7900,6900,9,10,250
+Bastos(carrefour),Mimboman(don bosco),8500,9900,8900,15,27,300
+Bastos(carrefour),Essos(marché),6300,7700,6700,11,18,250
+Bastos(carrefour),Omnisport,4100,5500,4500,9,14,200
+Bastos(carrefour),Ngousso(station),4900,6300,5300,11,21,250
+Bastos(carrefour),Damas(rond point),10700,12100,11100,11,18,400
+Bastos(carrefour),Tam-tam,9600,11000,10000,12,17,300
+Bastos(carrefour),Nsimeyong(pharmacie),8800,10200,9200,12,17,300
+Bastos(carrefour),Accacia(marché),9100,10500,9500,10,18,250
+Bastos(carrefour),Etoudi(marché),4300,5700,4700,4,6,250
+Bastos(carrefour),Santa barbara(cyberlink),5400,6800,5800,8,13,250
+Bastos(carrefour),Emana,5000,6400,5400,6,6,250
+Bastos(carrefour),(Mission Catholique)Nkozoa,11300,12700,11700,5,5,400
+Bastos(carrefour),Nlongkak,2100,3500,2500,6,8,200
+Bastos(carrefour),Anguissa(lycée),6300,7700,6700,14,15,300
+Bastos(carrefour),Ekounou,7200,8600,7600,10,12,350
+Bastos(carrefour),Mvan,10900,12300,11300,12,19,300
+Bastos(carrefour),Mvog-bi,4900,6300,5300,9,11,250
+Bastos(carrefour),(Basilique Marie Reine des Apotres)Mvolyé,6600,8000,7000,11,13,250
+Bastos(carrefour),Fouda,4900,6300,5300,9,14,300
+Bastos(carrefour),Marché central,2800,4200,3200,19,21,200
+Bastos(carrefour),Mendong(carrefour banane),10500,11900,10900,21,23,400
+Bastos(carrefour),(Lycée)Mballa II,1900,3300,2300,4,6,200
+Bastos(carrefour),Cradat(restaurant),5700,7100,6100,15,16,250
+Bastos(carrefour),Efoulan(carrefour club france),6800,8200,7200,13,16,300
+Bastos(carrefour),Eleveur (tradex college ebanda),6900,8300,7300,12,19,400
+Bastos(carrefour),Mvog-ada,4600,6000,5000,10,15,250
+Bastos(carrefour),hotel de ville(avenue des banques),2400,3800,2800,5,9,200
+Bastos(carrefour),TKC(carrefour),9300,10700,9700,14,16,400
+Bastos(carrefour),Carrefour MEEC,5100,6200,5600,11,13,300
+Bastos(carrefour),Mvog Atangana Mballa(pharmacie),5700,6500,5900,9,12,250
+Bastos(carrefour),Ngoa Ekélé (lycée),3800,4600,4000,13,15,250
+Bastos(carrefour),Chateau(Université de Yaoundé I),5000,5800,5200,13,15,250
+Bastos(carrefour),Ekoundoum,102800,103600,103000,26,26,1500
+Cité verte,Madagascar,1500,2300,1700,7,8,100
+Cité verte,Bastos,4600,5400,4800,8,15,250
+Cité verte,Nkom-kana,2100,2900,2300,8,8,100
+Cité verte,Nkolbisson,4700,5500,4900,7,8,150
+Cité verte,Tsinga,2900,3700,3100,8,10,150
+Cité verte,Briqueterie,2400,3200,2600,8,11,200
+Cité verte,Ecole de police(pharmacie),3400,4200,3600,8,13,200
+Cité verte,Ecole des postes(immeuble cyberlink),4100,4900,4300,13,17,250
+Cité verte,Emombo(Chapelle),7100,7900,7300,14,16,300
+Cité verte,Mimboman(don bosco),9100,9900,9300,17,23,400
+Cité verte,Essos(marché),6900,7700,7100,14,18,250
+Cité verte,Omnisport,7700,8500,7900,17,19,300
+Cité verte,Ngousso(station),6300,7100,6500,15,23,300
+Cité verte,Damas(rond point),8700,9500,8900,15,21,300
+Cité verte,Tam-tam,6700,7500,6900,14,17,300
+Cité verte,Nsimeyong(pharmacie),6300,7100,6500,14,17,300
+Cité verte,Accacia(marché),4800,5600,5000,14,16,250
+Cité verte,Etoudi(marché),8800,9600,9000,18,21,250
+Cité verte,Santa barbara(cyberlink),9900,10700,10100,20,23,250
+Cité verte,Emana,9500,10300,9700,17,20,350
+Cité verte,(Mission Catholique)Nkozoa,15800,16600,16000,17,17,600
+Cité verte,Nlongkak,4900,5700,5100,12,15,250
+Cité verte,Anguissa(lycée),6900,7700,7100,14,18,300
+Cité verte,Ekounou,7700,8500,7900,17,20,350
+Cité verte,Mvan,10400,11200,10600,13,20,300
+Cité verte,Mvog-bi,5500,6300,5700,15,18,250
+Cité verte,(Basilique Marie Reine des Apotres)Mvolyé,6200,7000,6400,13,14,300
+Cité verte,Fouda,1200,2000,1400,11,17,300
+Cité verte,Marché central,3600,4400,3800,13,14,250
+Cité verte,Mendong(carrefour banane),6400,7200,6600,14,14,275
+Cité verte,(Lycée)Mballa II,6400,7200,6600,7,15,250
+Cité verte,Cradat(restaurant),4000,4800,4200,14,16,200
+Cité verte,Efoulan(carrefour club france),7100,7900,7300,14,15,300
+Cité verte,Eleveur (tradex college ebanda),10600,11400,10800,22,25,350
+Cité verte,Mvog-ada,5200,6000,5400,14,19,250
+Cité verte,hotel de ville(avenue des banques),5000,5800,5200,10,14,250
+Cité verte,TKC(carrefour),5200,6000,5400,12,12,250
+Cité verte,Carrefour MEEC,800,1600,1000,5,6,100
+Cité verte,Mvog Atangana Mballa(pharmacie),5000,5800,5200,14,19,250
+Cité verte,Ngoa Ekélé (lycée),3200,4000,3400,11,13,250
+Cité verte,Chateau(Université de Yaoundé I),3400,4200,3600,11,13,250
+Cité verte,Ekoundoum,103800,104600,104000,23,27,1500
+Madagascar,Bastos,4100,5600,4500,7,9,250
+Madagascar,Nkom-kana,1200,2700,1600,6,8,250
+Madagascar,Nkolbisson,6000,7500,6400,9,12,200
+Madagascar,Tsinga,2600,4100,3000,7,8,100
+Madagascar,Briqueterie,2600,4100,3000,6,6,150
+Madagascar,Ecole de police(pharmacie),3300,4800,3700,6,8,200
+Madagascar,Ecole des postes(immeuble cyberlink),5400,6900,5800,13,17,250
+Madagascar,Emombo(Chapelle),7400,8900,7800,10,16,300
+Madagascar,Mimboman(don bosco),9300,10800,9700,16,32,400
+Madagascar,Essos(marché),7200,8700,7600,11,21,250
+Madagascar,Omnisport,7400,8900,7800,15,18,300
+Madagascar,Ngousso(station),6900,8400,7300,20,24,250
+Madagascar,Damas(rond point),11400,12900,11800,11,15,300
+Madagascar,Tam-tam,8000,9500,8400,14,18,300
+Madagascar,Nsimeyong(pharmacie),7600,9100,8000,13,17,300
+Madagascar,Accacia(marché),6100,7600,6500,14,16,250
+Madagascar,Etoudi(marché),8400,9900,8800,15,24,200
+Madagascar,Santa barbara(cyberlink),9500,11000,9900,17,26,200
+Madagascar,Emana,8600,10100,9000,13,22,350
+Madagascar,(Mission Catholique)Nkozoa,15400,16900,15800,13,13,600
+Madagascar,Nlongkak,4500,6000,4900,12,14,250
+Madagascar,Anguissa(lycée),7200,8700,7600,14,16,300
+Madagascar,Ekounou,8000,9500,8400,13,15,350
+Madagascar,Mvan,11600,13100,12000,18,24,300
+Madagascar,Mvog-bi,5700,7200,6100,20,22,250
+Madagascar,(Basilique Marie Reine des Apotres)Mvolyé,7300,8800,7700,11,15,250
+Madagascar,Fouda,2000,3500,2400,8,10,300
+Madagascar,Marché central,3900,5400,4300,8,11,200
+Madagascar,Mendong(carrefour banane),7700,9200,8100,14,14,300
+Madagascar,(Lycée)Mballa II,6100,7600,6500,14,20,250
+Madagascar,Cradat(restaurant),5300,6800,5700,14,16,250
+Madagascar,Efoulan(carrefour club france),8300,9800,8700,12,15,300
+Madagascar,Eleveur (tradex college ebanda),10200,11700,10600,22,25,400
+Madagascar,Mvog-ada,5400,6900,5800,10,15,250
+Madagascar,hotel de ville(avenue des banques),4800,6300,5200,10,13,250
+Madagascar,TKC(carrefour),6400,7900,6800,11,11,250
+Madagascar,Carrefour MEEC,2300,3800,2700,5,6,150
+Madagascar,Mvog Atangana Mballa(pharmacie),6200,7700,6600,10,15,250
+Madagascar,Ngoa Ekélé (lycée),4400,5900,4800,11,13,250
+Madagascar,Chateau(Université de Yaoundé I),4700,6200,5100,11,13,250
+Madagascar,Ekoundoum,103600,105100,104000,23,27,1500
+Bastos,Nkom-kana,1900,3800,2600,8,10,225
+Bastos,Nkolbisson,8800,10700,9500,11,15,350
+Bastos,Tsinga,1400,3300,2100,3,9,200
+Bastos,Briqueterie,3400,5300,4100,7,11,250
+Bastos,Ecole de police(pharmacie),2300,4200,3000,5,7,250
+Bastos,Ecole des postes(immeuble cyberlink),6600,8500,7300,13,16,350
+Bastos,Emombo(Chapelle),7400,9300,8100,9,10,300
+Bastos,Mimboman(don bosco),8200,10100,8900,15,27,400
+Bastos,Essos(marché),6000,7900,6700,11,18,250
+Bastos,Omnisport,4800,6700,5500,9,14,250
+Bastos,Ngousso(station),6000,7900,6700,11,21,250
+Bastos,Damas(rond point),11500,13400,12200,11,18,350
+Bastos,Tam-tam,10300,12200,11000,12,17,350
+Bastos,Nsimeyong(pharmacie),9500,11400,10200,12,17,350
+Bastos,Accacia(marché),9800,11700,10500,10,18,300
+Bastos,Etoudi(marché),5100,7000,5800,4,6,250
+Bastos,Santa barbara(cyberlink),6200,8100,6900,8,13,250
+Bastos,Emana,5800,7700,6500,6,6,300
+Bastos,(Mission Catholique)Nkozoa,12100,14000,12800,5,5,400
+Bastos,Nlongkak,3100,5000,3800,6,8,250
+Bastos,Anguissa(lycée),7100,9000,7800,14,15,300
+Bastos,Ekounou,7900,9800,8600,10,12,300
+Bastos,Mvan,11500,13400,12200,12,19,300
+Bastos,Mvog-bi,5600,7500,6300,9,11,250
+Bastos,(Basilique Marie Reine des Apotres)Mvolyé,7300,9200,8000,11,13,250
+Bastos,Fouda,4700,6600,5400,9,14,200
+Bastos,Marché central,3900,5800,4600,19,21,200
+Bastos,Mendong(carrefour banane),10600,12500,11300,21,23,350
+Bastos,(Lycée)Mballa II,7200,7800,7300,4,6,250
+Bastos,Cradat(restaurant),6500,8200,7100,15,16,250
+Bastos,Efoulan(carrefour club france),7800,9500,8400,13,16,300
+Bastos,Eleveur (tradex college ebanda),7600,9300,8200,12,19,300
+Bastos,Mvog-ada,5500,7200,6100,10,15,250
+Bastos,hotel de ville(avenue des banques),9000,10700,9600,5,9,250
+Bastos,TKC(carrefour),9500,11200,10100,14,16,300
+Bastos,Carrefour MEEC,5300,7000,5900,11,13,250
+Bastos,Mvog Atangana Mballa(pharmacie),6200,7200,6200,9,12,250
+Bastos,Ngoa Ekélé (lycée),6100,7000,6100,13,15,250
+Bastos,Chateau(Université de Yaoundé I),7000,7900,7000,13,15,250
+Bastos,Ekoundoum,103000,103900,103000,26,26,1500
+Nkom-kana,Nkolbisson,7000,7900,7000,13,13,300
+Nkom-kana,Tsinga,1800,2700,1800,11,15,100
+Nkom-kana,Briqueterie,3400,4300,3400,9,10,150
+Nkom-kana,Ecole de police(pharmacie),2500,3400,2500,10,12,150
+Nkom-kana,Ecole des postes(immeuble cyberlink),6100,7000,6100,10,13,250
+Nkom-kana,Emombo(Chapelle),8200,9100,8200,16,19,300
+Nkom-kana,Mimboman(don bosco),10200,11100,10200,14,28,400
+Nkom-kana,Essos(marché),8000,8900,8000,12,26,300
+Nkom-kana,Omnisport,6600,7500,6600,11,21,250
+Nkom-kana,Ngousso(station),6100,7000,6100,23,25,250
+Nkom-kana,Damas(rond point),12400,13300,12400,13,19,450
+Nkom-kana,Tam-tam,9000,9900,9000,20,24,300
+Nkom-kana,Nsimeyong(pharmacie),10500,11400,10500,20,24,350
+Nkom-kana,Accacia(marché),7100,8000,7100,16,20,300
+Nkom-kana,Etoudi(marché),7700,8600,7700,14,18,300
+Nkom-kana,Santa barbara(cyberlink),8800,9700,8800,16,20,300
+Nkom-kana,Emana,7800,8700,7800,15,19,300
+Nkom-kana,(Mission Catholique)Nkozoa,14600,15500,14600,16,20,600
+Nkom-kana,Nlongkak,3800,4700,3800,13,14,150
+Nkom-kana,Anguissa(lycée),8000,8900,8000,15,16,300
+Nkom-kana,Ekounou,8900,9800,8900,18,24,350
+Nkom-kana,Mvan,12600,13500,12600,18,26,400
+Nkom-kana,Mvog-bi,6600,7500,6600,15,18,250
+Nkom-kana,(Basilique Marie Reine des Apotres)Mvolyé,8300,9200,8300,9,18,300
+Nkom-kana,Fouda,3000,3900,3000,8,8,150
+Nkom-kana,Marché central,4500,5400,4500,11,13,200
+Nkom-kana,Mendong(carrefour banane),8700,9600,8700,18,24,350
+Nkom-kana,(Lycée)Mballa II,5300,6200,5300,15,16,250
+Nkom-kana,Cradat(restaurant),5700,6600,5700,13,18,250
+Nkom-kana,Efoulan(carrefour club france),8500,9400,8500,18,20,300
+Nkom-kana,Eleveur (tradex college ebanda),9400,10300,9400,17,23,300
+Nkom-kana,Mvog-ada,6300,7200,6300,13,15,250
+Nkom-kana,hotel de ville(avenue des banques),4100,5000,4100,15,19,175
+Nkom-kana,TKC(carrefour),7500,8400,7500,14,14,350
+Nkom-kana,Carrefour MEEC,3300,4200,3300,9,10,150
+Nkom-kana,Mvog Atangana Mballa(pharmacie),7200,8100,7200,14,16,300
+Nkom-kana,Ngoa Ekélé (lycée),5200,6100,5200,13,22,250
+Nkom-kana,Chateau(Université de Yaoundé I),5500,6400,5500,13,22,250
+Nkom-kana,Ekoundoum,105000,105900,105000,30,30,1500
+Nkolbisson,Tsinga,7800,8700,7800,11,15,200
+Nkolbisson,Briqueterie,7200,8100,7200,10,10,250
+Nkolbisson,Ecole de police(pharmacie),8100,9000,8100,10,12,250
+Nkolbisson,Ecole des postes(immeuble cyberlink),7300,8200,7300,10,13,325
+Nkolbisson,Emombo(Chapelle),11900,12800,11900,14,22,400
+Nkolbisson,Mimboman(don bosco),13800,14700,13800,12,31,400
+Nkolbisson,Essos(marché),11700,12600,11700,10,29,350
+Nkolbisson,Omnisport,12700,13600,12700,10,24,350
+Nkolbisson,Ngousso(station),14000,14900,14000,21,29,500
+Nkolbisson,Damas(rond point),11600,12500,11600,11,23,400
+Nkolbisson,Tam-tam,9400,10300,9400,18,28,350
+Nkolbisson,Nsimeyong(pharmacie),9100,10000,9100,18,24,350
+Nkolbisson,Accacia(marché),7600,8500,7600,16,20,300
+Nkolbisson,Etoudi(marché),13700,14600,13700,14,18,400
+Nkolbisson,Santa barbara(cyberlink),14500,18100,14500,16,20,400
+Nkolbisson,Emana,14400,15600,14400,15,18,400
+Nkolbisson,(Mission Catholique)Nkozoa,20700,21900,20700,13,19,700
+Nkolbisson,Nlongkak,9400,10600,9400,17,19,300
+Nkolbisson,Anguissa(lycée),11700,12900,11700,14,17,350
+Nkolbisson,Ekounou,11300,12500,11300,19,23,350
+Nkolbisson,Mvan,14000,15200,14000,19,22,400
+Nkolbisson,Mvog-bi,10100,11300,10100,12,13,350
+Nkolbisson,(Basilique Marie Reine des Apotres)Mvolyé,8500,9700,8500,15,17,300
+Nkolbisson,Fouda,5200,6400,5200,14,14,250
+Nkolbisson,Marché central,8400,9600,8400,12,12,300
+Nkolbisson,Mendong(carrefour banane),5300,6500,5300,12,16,200
+Nkolbisson,(Lycée)Mballa II,11400,12200,11600,20,27,350
+Nkolbisson,Cradat(restaurant),6800,8000,6800,14,14,250
+Nkolbisson,Efoulan(carrefour club france),8900,10100,8900,14,16,300
+Nkolbisson,Eleveur (tradex college ebanda),15500,16700,15500,25,28,500
+Nkolbisson,Mvog-ada,10000,11200,10000,12,13,300
+Nkolbisson,hotel de ville(avenue des banques),9300,10500,9300,14,14,250
+Nkolbisson,TKC(carrefour),7900,9100,7900,10,14,300
+Nkolbisson,Carrefour MEEC,3700,4900,3700,4,7,100
+Nkolbisson,Mvog Atangana Mballa(pharmacie),9100,10300,9100,14,15,300
+Nkolbisson,Ngoa Ekélé (lycée),6700,7900,6700,11,11,300
+Nkolbisson,Chateau(Université de Yaoundé I),7000,8200,7000,11,11,300
+Nkolbisson,Ekoundoum,108000,109200,108000,23,35,1500
+Tsinga,Briqueterie,2100,3300,2100,3,5,100
+Tsinga,Ecole de police(pharmacie),1200,2400,1200,5,6,100
+Tsinga,Ecole des postes(immeuble cyberlink),6000,7200,6000,12,14,250
+Tsinga,Emombo(Chapelle),6600,7800,6600,10,17,250
+Tsinga,Mimboman(don bosco),8500,9700,8500,14,28,350
+Tsinga,Essos(marché),6400,7600,6400,12,26,250
+Tsinga,Omnisport,5100,6300,5100,11,21,250
+Tsinga,Ngousso(station),6900,8100,6900,23,25,250
+Tsinga,Damas(rond point),10900,12100,10900,13,19,400
+Tsinga,Tam-tam,9700,10900,9700,20,24,350
+Tsinga,Nsimeyong(pharmacie),8900,10100,8900,20,24,300
+Tsinga,Accacia(marché),9200,10400,9200,16,20,300
+Tsinga,Etoudi(marché),6000,7200,6000,14,18,200
+Tsinga,Santa barbara(cyberlink),7100,8300,7100,16,20,250
+Tsinga,Emana,6700,7900,6700,11,11,250
+Tsinga,(Mission Catholique)Nkozoa,13000,14200,13000,11,11,500
+Tsinga,Nlongkak,2100,3300,2100,10,13,100
+Tsinga,Anguissa(lycée),6400,7600,6400,13,17,250
+Tsinga,Ekounou,7300,8500,7300,13,15,300
+Tsinga,Mvan,10900,12100,10900,14,19,350
+Tsinga,Mvog-bi,4900,6100,4900,11,14,200
+Tsinga,(Basilique Marie Reine des Apotres)Mvolyé,6700,7900,6700,12,17,250
+Tsinga,Fouda,3800,5000,3800,8,10,200
+Tsinga,Marché central,2800,4000,2800,17,21,150
+Tsinga,Mendong(carrefour banane),9500,10700,9500,12,17,350
+Tsinga,(Lycée)Mballa II,3800,5000,3800,10,12,150
+Tsinga,Cradat(restaurant),5700,6900,5700,15,17,250
+Tsinga,Efoulan(carrefour club france),6900,8100,6900,13,18,250
+Tsinga,Eleveur (tradex college ebanda),7800,9000,7800,15,17,300
+Tsinga,Mvog-ada,4700,5900,4700,11,14,200
+Tsinga,hotel de ville(avenue des banques),2500,3700,2500,11,11,100
+Tsinga,TKC(carrefour),8300,9500,8300,10,15,350
+Tsinga,Carrefour MEEC,4100,5300,4100,3,9,200
+Tsinga,Mvog Atangana Mballa(pharmacie),5100,6600,5100,14,19,200
+Tsinga,Ngoa Ekélé (lycée),4700,6200,4700,15,17,250
+Tsinga,Chateau(Université de Yaoundé I),5600,7100,5600,14,17,250
+Tsinga,Ekoundoum,103000,104500,103000,30,35,1500
+Briqueterie,Ecole de police(pharmacie),1000,2500,1000,2,5,100
+Briqueterie,Ecole des postes(immeuble cyberlink),3900,5400,3900,10,12,200
+Briqueterie,Emombo(Chapelle),5600,7100,5600,11,15,250
+Briqueterie,Mimboman(don bosco),7500,9000,7500,12,23,300
+Briqueterie,Essos(marché),5400,6900,5400,10,24,250
+Briqueterie,Omnisport,5500,7000,5500,9,19,250
+Briqueterie,Ngousso(station),7300,8800,7300,21,23,300
+Briqueterie,Damas(rond point),9700,11200,9700,11,17,350
+Briqueterie,Tam-tam,8600,10100,8600,18,22,300
+Briqueterie,Nsimeyong(pharmacie),7800,9300,7800,18,21,300
+Briqueterie,Accacia(marché),8000,9500,8000,14,17,300
+Briqueterie,Etoudi(marché),6400,7900,6400,12,16,250
+Briqueterie,Santa barbara(cyberlink),7500,9000,7500,14,18,250
+Briqueterie,Emana,7200,8700,7200,10,12,250
+Briqueterie,(Mission Catholique)Nkozoa,13400,14900,13400,10,10,500
+Briqueterie,Nlongkak,2400,3900,2400,9,9,100
+Briqueterie,Anguissa(lycée),5400,6900,5400,10,13,250
+Briqueterie,Ekounou,6200,7700,6200,13,21,250
+Briqueterie,Mvan,9800,11300,9800,9,16,300
+Briqueterie,Mvog-bi,3900,5400,3900,11,13,150
+Briqueterie,(Basilique Marie Reine des Apotres)Mvolyé,5600,7100,5600,6,7,200
+Briqueterie,Fouda,3700,5200,3700,9,13,150
+Briqueterie,Marché central,2100,3600,2100,5,7,150
+Briqueterie,Mendong(carrefour banane),7900,9400,7900,13,15,300
+Briqueterie,(Lycée)Mballa II,4200,5700,4200,12,15,200
+Briqueterie,Cradat(restaurant),3700,5200,3700,11,12,200
+Briqueterie,Efoulan(carrefour club france),5800,7300,5800,10,14,250
+Briqueterie,Eleveur (tradex college ebanda),8200,9700,8200,13,20,300
+Briqueterie,Mvog-ada,3700,5200,3700,12,16,200
+Briqueterie,hotel de ville(avenue des banques),1500,3000,1500,8,8,100
+Briqueterie,TKC(carrefour),6600,8100,6600,11,14,300
+Briqueterie,Carrefour MEEC,3500,5000,3500,8,9,200
+Briqueterie,Mvog Atangana Mballa(pharmacie),3900,5400,3900,13,18,200
+Briqueterie,Ngoa Ekélé (lycée),2600,4100,2600,10,12,200
+Briqueterie,Chateau(Université de Yaoundé I),3500,5000,3500,10,13,200
+Briqueterie,Ekoundoum,102000,103500,102000,31,36,1500
+Ecole de police(pharmacie),Ecole des postes(immeuble cyberlink),4800,6300,4800,12,18,250
+Ecole de police(pharmacie),Emombo(Chapelle),5400,6900,5400,8,11,250
+Ecole de police(pharmacie),Mimboman(don bosco),7400,8900,7400,14,28,300
+Ecole de police(pharmacie),Essos(marché),5200,6700,5200,12,26,250
+Ecole de police(pharmacie),Omnisport,4500,6000,4500,11,21,250
+Ecole de police(pharmacie),Ngousso(station),6200,7700,6200,23,25,250
+Ecole de police(pharmacie),Damas(rond point),9700,11200,9700,13,19,300
+Ecole de police(pharmacie),Tam-tam,8500,10000,8500,20,24,300
+Ecole de police(pharmacie),Nsimeyong(pharmacie),7700,9200,7700,20,24,300
+Ecole de police(pharmacie),Accacia(marché),8000,9500,8000,16,20,300
+Ecole de police(pharmacie),Etoudi(marché),5400,6900,5400,13,18,250
+Ecole de police(pharmacie),Santa barbara(cyberlink),6500,8000,6500,9,17,250
+Ecole de police(pharmacie),Emana,6100,7600,6100,15,16,250
+Ecole de police(pharmacie),(Mission Catholique)Nkozoa,12400,13900,12400,17,19,500
+Ecole de police(pharmacie),Nlongkak,1300,2800,1300,13,16,100
+Ecole de police(pharmacie),Anguissa(lycée),5200,6700,5200,15,16,250
+Ecole de police(pharmacie),Ekounou,6100,7600,6100,13,13,250
+Ecole de police(pharmacie),Mvan,9700,11200,9700,14,16,300
+Ecole de police(pharmacie),Mvog-bi,3700,5200,3700,8,12,150
+Ecole de police(pharmacie),(Basilique Marie Reine des Apotres)Mvolyé,5500,7000,5500,10,15,250
+Ecole de police(pharmacie),Fouda,4700,6200,4700,11,16,200
+Ecole de police(pharmacie),Marché central,1700,3200,1700,4,8,100
+Ecole de police(pharmacie),Mendong(carrefour banane),8800,10300,8800,12,10,300
+Ecole de police(pharmacie),(Lycée)Mballa II,3200,4700,3200,10,10,150
+Ecole de police(pharmacie),Cradat(restaurant),4600,6100,4600,13,15,250
+Ecole de police(pharmacie),Efoulan(carrefour club france),5700,7200,5700,13,17,250
+Ecole de police(pharmacie),Eleveur (tradex college ebanda),7200,8700,7200,14,19,300
+Ecole de police(pharmacie),Mvog-ada,3500,5000,3500,7,9,150
+Ecole de police(pharmacie),hotel de ville(avenue des banques),1500,3000,1500,4,8,100
+Ecole de police(pharmacie),TKC(carrefour),7600,9100,7600,17,19,350
+Ecole de police(pharmacie),Carrefour MEEC,4400,5900,4400,10,12,200
+Ecole de police(pharmacie),Mvog Atangana Mballa(pharmacie),3900,5400,3900,9,10,200
+Ecole de police(pharmacie),Ngoa Ekélé (lycée),3600,5100,3600,6,7,200
+Ecole de police(pharmacie),Chateau(Université de Yaoundé I),4500,6000,4500,6,8,200
+Ecole de police(pharmacie),Ekoundoum,102000,103500,102000,27,35,1500
+Ecole des postes(immeuble cyberlink),Emombo(Chapelle),7000,8500,7000,13,19,300
+Ecole des postes(immeuble cyberlink),Mimboman(don bosco),8900,10400,8900,14,28,400
+Ecole des postes(immeuble cyberlink),Essos(marché),6800,8300,6800,12,26,250
+Ecole des postes(immeuble cyberlink),Omnisport,8700,10200,8700,11,21,300
+Ecole des postes(immeuble cyberlink),Ngousso(station),9700,11200,9700,23,25,350
+Ecole des postes(immeuble cyberlink),Damas(rond point),4900,6400,4900,13,19,200
+Ecole des postes(immeuble cyberlink),Tam-tam,3300,4800,3300,20,24,150
+Ecole des postes(immeuble cyberlink),Nsimeyong(pharmacie),2500,4000,2500,20,24,100
+Ecole des postes(immeuble cyberlink),Accacia(marché),2800,4300,2800,16,20,100
+Ecole des postes(immeuble cyberlink),Etoudi(marché),9500,11000,9500,14,18,350
+Ecole des postes(immeuble cyberlink),Santa barbara(cyberlink),10600,12100,10600,16,20,400
+Ecole des postes(immeuble cyberlink),Emana,9500,11000,9500,13,16,350
+Ecole des postes(immeuble cyberlink),(Mission Catholique)Nkozoa,16500,18000,16500,15,19,600
+Ecole des postes(immeuble cyberlink),Nlongkak,5300,6800,5300,11,16,250
+Ecole des postes(immeuble cyberlink),Anguissa(lycée),7000,8500,7000,13,16,300
+Ecole des postes(immeuble cyberlink),Ekounou,5600,7100,5600,11,13,300
+Ecole des postes(immeuble cyberlink),Mvan,8300,9800,8300,12,16,375
+Ecole des postes(immeuble cyberlink),Mvog-bi,3800,5300,3800,8,15,200
+Ecole des postes(immeuble cyberlink),(Basilique Marie Reine des Apotres)Mvolyé,1700,3200,1700,10,15,100
+Ecole des postes(immeuble cyberlink),Fouda,6600,8100,6600,13,17,300
+Ecole des postes(immeuble cyberlink),Marché central,3800,5300,3800,8,11,150
+Ecole des postes(immeuble cyberlink),Mendong(carrefour banane),6000,7500,6000,9,10,300
+Ecole des postes(immeuble cyberlink),(Lycée)Mballa II,7200,8700,7200,12,16,300
+Ecole des postes(immeuble cyberlink),Cradat(restaurant),280,1780,280,3,5,100
+Ecole des postes(immeuble cyberlink),Efoulan(carrefour club france),2100,3600,2100,5,7,100
+Ecole des postes(immeuble cyberlink),Eleveur (tradex college ebanda),11600,13100,11600,14,19,400
+Ecole des postes(immeuble cyberlink),Mvog-ada,5000,6500,5000,7,13,200
+Ecole des postes(immeuble cyberlink),hotel de ville(avenue des banques),5200,6700,5200,12,13,200
+Ecole des postes(immeuble cyberlink),TKC(carrefour),3600,5100,3600,7,7,200
+Ecole des postes(immeuble cyberlink),Carrefour MEEC,3600,5100,3600,5,7,200
+Ecole des postes(immeuble cyberlink),Mvog Atangana Mballa(pharmacie),2900,4400,2900,7,10,200
+Ecole des postes(immeuble cyberlink),Ngoa Ekélé (lycée),1400,2900,1400,3,7,100
+Ecole des postes(immeuble cyberlink),Chateau(Université de Yaoundé I),1100,2600,1100,3,8,100
+Ecole des postes(immeuble cyberlink),Ekoundoum,103000,104500,103000,27,35,1500
+Emombo(Chapelle),Mimboman(don bosco),1900,3400,1900,4,8,100
+Emombo(Chapelle),Essos(marché),1000,2500,1000,5,9,100
+Emombo(Chapelle),Omnisport,2900,4400,2900,11,15,200
+Emombo(Chapelle),Ngousso(station),5600,7100,5600,13,16,250
+Emombo(Chapelle),Damas(rond point),10100,11600,10100,15,19,400
+Emombo(Chapelle),Tam-tam,8900,10400,8900,14,22,350
+Emombo(Chapelle),Nsimeyong(pharmacie),8100,9600,8100,14,21,350
+Emombo(Chapelle),Accacia(marché),8400,9900,8400,13,20,300
+Emombo(Chapelle),Etoudi(marché),8300,9800,8300,14,18,300
+Emombo(Chapelle),Santa barbara(cyberlink),8100,9600,8100,14,19,300
+Emombo(Chapelle),Emana,9000,10500,9000,8,10,300
+Emombo(Chapelle),(Mission Catholique)Nkozoa,15300,16800,15300,16,21,600
+Emombo(Chapelle),Nlongkak,4200,5700,4200,6,10,200
+Emombo(Chapelle),Anguissa(lycée),800,2300,800,8,11,100
+Emombo(Chapelle),Ekounou,3600,5100,3600,5,8,200
+Emombo(Chapelle),Mvan,7400,8900,7400,6,14,300
+Emombo(Chapelle),Mvog-bi,3600,5100,3600,7,12,200
+Emombo(Chapelle),(Basilique Marie Reine des Apotres)Mvolyé,5900,7400,5900,6,10,250
+Emombo(Chapelle),Fouda,8500,10000,8500,11,17,300
+Emombo(Chapelle),Marché central,4300,5800,4300,7,10,200
+Emombo(Chapelle),Mendong(carrefour banane),11600,13100,11600,15,19,350
+Emombo(Chapelle),(Lycée)Mballa II,6100,7600,6100,12,17,250
+Emombo(Chapelle),Cradat(restaurant),6600,8100,6600,9,16,300
+Emombo(Chapelle),Efoulan(carrefour club france),6100,7600,6100,7,9,250
+Emombo(Chapelle),Eleveur (tradex college ebanda),6500,8000,6500,9,15,300
+Emombo(Chapelle),Mvog-ada,2000,3500,2000,13,20,100
+Emombo(Chapelle),hotel de ville(avenue des banques),5100,6600,5100,8,11,200
+Emombo(Chapelle),TKC(carrefour),10400,11900,10400,13,17,400
+Emombo(Chapelle),Carrefour MEEC,8200,9700,8200,9,14,350
+Emombo(Chapelle),Mvog Atangana Mballa(pharmacie),4100,5600,4100,5,7,200
+Emombo(Chapelle),Ngoa Ekélé (lycée),5600,7100,5600,4,15,250
+Emombo(Chapelle),Chateau(Université de Yaoundé I),6500,8000,6500,5,14,250
+Emombo(Chapelle),Ekoundoum,96400,97900,96400,24,28,1000
+Mimboman(don bosco),Essos(marché),2800,4300,2800,12,26,150
+Mimboman(don bosco),Omnisport,4000,5500,4000,11,21,200
+Mimboman(don bosco),Ngousso(station),4900,6400,4900,23,25,200
+Mimboman(don bosco),Damas(rond point),12000,13500,12000,13,19,500
+Mimboman(don bosco),Tam-tam,10900,12400,10900,20,24,400
+Mimboman(don bosco),Nsimeyong(pharmacie),10100,11600,10100,20,24,400
+Mimboman(don bosco),Accacia(marché),10300,11800,10300,16,20,400
+Mimboman(don bosco),Etoudi(marché),9400,10900,9400,14,18,400
+Mimboman(don bosco),Santa barbara(cyberlink),8300,9800,8300,16,20,350
+Mimboman(don bosco),Emana,10200,11700,10200,13,17,400
+Mimboman(don bosco),(Mission Catholique)Nkozoa,16400,17900,16400,10,18,600
+Mimboman(don bosco),Nlongkak,6100,7600,6100,10,10,250
+Mimboman(don bosco),Anguissa(lycée),2800,4300,2800,8,15,150
+Mimboman(don bosco),Ekounou,5400,6900,5400,12,18,250
+Mimboman(don bosco),Mvan,9100,10600,9100,10,14,300
+Mimboman(don bosco),Mvog-bi,5700,7200,5700,10,14,250
+Mimboman(don bosco),(Basilique Marie Reine des Apotres)Mvolyé,7800,9300,7800,8,13,300
+Mimboman(don bosco),Fouda,10400,11900,10400,15,18,400
+Mimboman(don bosco),Marché central,6200,7700,6200,14,18,250
+Mimboman(don bosco),Mendong(carrefour banane),13500,15000,13500,20,27,400
+Mimboman(don bosco),(Lycée)Mballa II,7200,8700,7200,14,17,300
+Mimboman(don bosco),Cradat(restaurant),8600,10100,8600,13,21,350
+Mimboman(don bosco),Efoulan(carrefour club france),8100,9600,8100,9,14,350
+Mimboman(don bosco),Eleveur (tradex college ebanda),5800,7300,5800,12,15,300
+Mimboman(don bosco),Mvog-ada,3900,5400,3900,9,13,200
+Mimboman(don bosco),hotel de ville(avenue des banques),7000,8500,7000,13,14,300
+Mimboman(don bosco),TKC(carrefour),12300,13800,12300,17,23,500
+Mimboman(don bosco),Carrefour MEEC,10200,11700,10200,17,21,400
+Mimboman(don bosco),Mvog Atangana Mballa(pharmacie),5800,7300,5800,10,12,250
+Mimboman(don bosco),Ngoa Ekélé (lycée),7500,9000,7500,7,21,300
+Mimboman(don bosco),Chateau(Université de Yaoundé I),8400,9900,8400,8,21,300
+Mimboman(don bosco),Ekoundoum,94500,96000,94500,18,26,1000
+Essos(marché),Omnisport,1900,3400,1900,5,7,100
+Essos(marché),Ngousso(station),2700,4200,2700,7,10,150
+Essos(marché),Damas(rond point),13100,14600,13100,13,19,500
+Essos(marché),Tam-tam,11900,13400,11900,20,24,400
+Essos(marché),Nsimeyong(pharmacie),11100,12600,11100,20,24,400
+Essos(marché),Accacia(marché),11400,12900,11400,16,20,400
+Essos(marché),Etoudi(marché),4200,5700,4200,14,18,250
+Essos(marché),Santa barbara(cyberlink),3100,4600,3100,8,10,200
+Essos(marché),Emana,5900,7400,5900,9,18,250
+Essos(marché),(Mission Catholique)Nkozoa,12200,13700,12200,7,9,500
+Essos(marché),Nlongkak,5300,6800,5300,7,15,250
+Essos(marché),Anguissa(lycée),4700,6200,4700,8,11,200
+Essos(marché),Ekounou,9400,10900,9400,11,14,300
+Essos(marché),Mvan,12600,14100,12600,10,19,400
+Essos(marché),Mvog-bi,7100,8600,7100,9,13,300
+Essos(marché),(Basilique Marie Reine des Apotres)Mvolyé,8900,10400,8900,9,14,300
+Essos(marché),Fouda,10100,11600,10100,13,18,350
+Essos(marché),Marché central,5700,7200,5700,10,14,250
+Essos(marché),Mendong(carrefour banane),14600,16100,14600,15,17,350
+Essos(marché),(Lycée)Mballa II,4400,5900,4400,8,17,200
+Essos(marché),Cradat(restaurant),9600,11100,9600,8,17,300
+Essos(marché),Efoulan(carrefour club france),9100,10600,9100,7,13,300
+Essos(marché),Eleveur (tradex college ebanda),1200,2700,1200,4,6,100
+Essos(marché),Mvog-ada,5200,6700,5200,10,14,250
+Essos(marché),hotel de ville(avenue des banques),5700,7200,5700,9,13,250
+Essos(marché),TKC(carrefour),13400,14900,13400,13,17,400
+Essos(marché),Carrefour MEEC,10300,11800,10300,9,15,350
+Essos(marché),Mvog Atangana Mballa(pharmacie),4000,5500,4000,10,15,200
+Essos(marché),Ngoa Ekélé (lycée),8500,10000,8500,7,14,300
+Essos(marché),Chateau(Université de Yaoundé I),9400,10900,9400,6,13,300
+Essos(marché),Ekoundoum,99000,100500,99000,21,35,1000
+Omnisport,Ngousso(station),3300,4800,3300,9,13,150
+Omnisport,Damas(rond point),11100,12600,11100,16,21,400
+Omnisport,Tam-tam,9900,11400,9900,11,16,300
+Omnisport,Nsimeyong(pharmacie),9200,10700,9200,12,18,300
+Omnisport,Accacia(marché),9400,10900,9400,15,20,300
+Omnisport,Etoudi(marché),6000,7500,6000,11,17,250
+Omnisport,Santa barbara(cyberlink),5800,7300,5800,13,21,250
+Omnisport,Emana,6800,8300,6800,11,21,300
+Omnisport,(Mission Catholique)Nkozoa,13000,14500,13000,15,24,500
+Omnisport,Nlongkak,3200,4700,3200,9,11,150
+Omnisport,Anguissa(lycée),2700,4200,2700,11,13,150
+Omnisport,Ekounou,7400,8900,7400,11,14,300
+Omnisport,Mvan,10700,12200,10700,15,19,400
+Omnisport,Mvog-bi,5100,6600,5100,13,16,250
+Omnisport,(Basilique Marie Reine des Apotres)Mvolyé,6900,8400,6900,9,14,300
+Omnisport,Fouda,8900,10400,8900,13,18,250
+Omnisport,Marché central,3500,5000,3500,10,14,200
+Omnisport,Mendong(carrefour banane),12600,14100,12600,15,17,500
+Omnisport,(Lycée)Mballa II,3800,5300,3800,8,17,200
+Omnisport,Cradat(restaurant),7600,9100,7600,17,25,350
+Omnisport,Efoulan(carrefour club france),7200,8700,7200,17,23,350
+Omnisport,Eleveur (tradex college ebanda),4200,5700,4200,10,16,200
+Omnisport,Mvog-ada,3200,4700,3200,14,19,200
+Omnisport,hotel de ville(avenue des banques),4500,6000,4500,12,17,250
+Omnisport,TKC(carrefour),11400,12900,11400,16,22,500
+Omnisport,Carrefour MEEC,9100,10600,9100,17,25,400
+Omnisport,Mvog Atangana Mballa(pharmacie),6000,7500,6000,13,15,300
+Omnisport,Ngoa Ekélé (lycée),6600,8100,6600,12,17,300
+Omnisport,Chateau(Université de Yaoundé I),7500,9000,7500,13,18,300
+Omnisport,Ekoundoum,98800,100300,98800,22,25,700
+Ngousso(station),Damas(rond point),13100,14600,13100,17,25,500
+Ngousso(station),Tam-tam,11900,13400,11900,17,23,400
+Ngousso(station),Nsimeyong(pharmacie),11100,12600,11100,17,24,400
+Ngousso(station),Accacia(marché),11400,12900,11400,18,20,400
+Ngousso(station),Etoudi(marché),4200,5700,4200,8,17,250
+Ngousso(station),Santa barbara(cyberlink),3100,4600,3100,8,15,200
+Ngousso(station),Emana,5900,7400,5900,11,21,250
+Ngousso(station),(Mission Catholique)Nkozoa,12200,13700,12200,17,25,500
+Ngousso(station),Nlongkak,5300,6800,5300,6,12,250
+Ngousso(station),Anguissa(lycée),4700,6200,4700,9,13,200
+Ngousso(station),Ekounou,9400,10900,9400,11,14,400
+Ngousso(station),Mvan,12600,14100,12600,10,19,500
+Ngousso(station),Mvog-bi,7100,8600,7100,9,13,300
+Ngousso(station),(Basilique Marie Reine des Apotres)Mvolyé,8900,10400,8900,9,14,300
+Ngousso(station),Fouda,10100,11600,10100,13,18,400
+Ngousso(station),Marché central,5700,7200,5700,10,14,250
+Ngousso(station),Mendong(carrefour banane),14600,16100,14600,15,17,400
+Ngousso(station),(Lycée)Mballa II,4400,5900,4400,8,17,200
+Ngousso(station),Cradat(restaurant),9600,11100,9600,13,23,350
+Ngousso(station),Efoulan(carrefour club france),9100,10600,9100,17,23,300
+Ngousso(station),Eleveur (tradex college ebanda),1200,2700,1200,11,15,100
+Ngousso(station),Mvog-ada,5200,6700,5200,10,14,250
+Ngousso(station),hotel de ville(avenue des banques),5700,7200,5700,12,17,250
+Ngousso(station),TKC(carrefour),13400,14900,13400,15,17,400
+Ngousso(station),Carrefour MEEC,10300,11800,10300,17,25,350
+Ngousso(station),Mvog Atangana Mballa(pharmacie),4200,5700,4200,13,17,200
+Ngousso(station),Ngoa Ekélé (lycée),8500,10000,8500,14,16,350
+Ngousso(station),Chateau(Université de Yaoundé I),9400,10900,9400,12,18,350
+Ngousso(station),Ekoundoum,99000,100500,99000,22,25,1000
+Damas(rond point),Tam-tam,2400,3900,2400,5,7,100
+Damas(rond point),Nsimeyong(pharmacie),2500,4000,2500,6,9,100
+Damas(rond point),Accacia(marché),3800,5300,3800,7,10,150
+Damas(rond point),Etoudi(marché),14400,15900,14400,13,17,500
+Damas(rond point),Santa barbara(cyberlink),15500,17000,15500,15,21,500
+Damas(rond point),Emana,15100,16600,15100,17,23,500
+Damas(rond point),(Mission Catholique)Nkozoa,21400,22900,21400,24,31,700
+Damas(rond point),Nlongkak,10100,11600,10100,16,22,350
+Damas(rond point),Anguissa(lycée),10300,11800,10300,19,23,350
+Damas(rond point),Ekounou,8200,9700,8200,8,13,350
+Damas(rond point),Mvan,7100,8600,7100,3,7,300
+Damas(rond point),Mvog-bi,6400,7900,6400,8,10,300
+Damas(rond point),(Basilique Marie Reine des Apotres)Mvolyé,4500,6000,4500,9,14,250
+Damas(rond point),Fouda,9400,10900,9400,13,18,350
+Damas(rond point),Marché central,8400,9900,8400,9,15,350
+Damas(rond point),Mendong(carrefour banane),5600,7100,5600,15,17,250
+Damas(rond point),(Lycée)Mballa II,12100,13600,12100,8,17,400
+Damas(rond point),Cradat(restaurant),5300,6800,5300,13,23,250
+Damas(rond point),Efoulan(carrefour club france),4000,5500,4000,17,23,200
+Damas(rond point),Eleveur (tradex college ebanda),14900,16400,14900,11,15,500
+Damas(rond point),Mvog-ada,8300,9800,8300,10,10,350
+Damas(rond point),hotel de ville(avenue des banques),9200,10700,9200,8,15,350
+Damas(rond point),TKC(carrefour),4400,5900,4400,15,17,250
+Damas(rond point),Carrefour MEEC,7900,9400,7900,17,25,350
+Damas(rond point),Mvog Atangana Mballa(pharmacie),5900,7400,5900,11,14,250
+Damas(rond point),Ngoa Ekélé (lycée),6400,7900,6400,13,15,300
+Damas(rond point),Chateau(Université de Yaoundé I),6700,8200,6700,12,14,300
+Damas(rond point),Ekoundoum,107000,108500,107000,24,25,1500
+Tam-tam,Nsimeyong(pharmacie),800,2300,800,1,1,100
+Tam-tam,Accacia(marché),1500,3000,1500,2,6,100
+Tam-tam,Etoudi(marché),13200,14700,13200,11,14,400
+Tam-tam,Santa barbara(cyberlink),14300,15800,14300,10,19,500
+Tam-tam,Emana,14000,15500,14000,13,17,400
+Tam-tam,(Mission Catholique)Nkozoa,20200,21700,20200,9,9,300
+Tam-tam,Nlongkak,9000,10500,9000,13,16,250
+Tam-tam,Anguissa(lycée),9100,10600,9100,15,18,300
+Tam-tam,Ekounou,7000,8500,7000,10,13,250
+Tam-tam,Mvan,7900,9400,7900,3,7,300
+Tam-tam,Mvog-bi,5300,6800,5300,11,15,250
+Tam-tam,(Basilique Marie Reine des Apotres)Mvolyé,3200,4700,3200,9,12,200
+Tam-tam,Fouda,7200,8700,7200,15,19,300
+Tam-tam,Marché central,7300,8800,7300,9,15,250
+Tam-tam,Mendong(carrefour banane),3200,4700,3200,9,13,250
+Tam-tam,(Lycée)Mballa II,11000,12500,11000,10,16,400
+Tam-tam,Cradat(restaurant),3600,5100,3600,4,6,150
+Tam-tam,Efoulan(carrefour club france),2700,4200,2700,17,23,250
+Tam-tam,Eleveur (tradex college ebanda),13700,15200,13700,17,21,300
+Tam-tam,Mvog-ada,7100,8600,7100,10,17,250
+Tam-tam,hotel de ville(avenue des banques),8000,9500,8000,10,15,250
+Tam-tam,TKC(carrefour),2000,3500,2000,2,5,100
+Tam-tam,Carrefour MEEC,5800,7300,5800,17,25,250
+Tam-tam,Mvog Atangana Mballa(pharmacie),4900,6400,4900,11,14,250
+Tam-tam,Ngoa Ekélé (lycée),4700,6200,4700,5,9,200
+Tam-tam,Chateau(Université de Yaoundé I),5000,6500,5000,4,7,150
+Tam-tam,Ekoundoum,106000,107500,106000,24,25,900
+Nsimeyong(pharmacie),Accacia(marché),1600,3100,1600,2,6,150
+Nsimeyong(pharmacie),Etoudi(marché),12400,13900,12400,12,16,500
+Nsimeyong(pharmacie),Santa barbara(cyberlink),13500,15000,13500,15,21,400
+Nsimeyong(pharmacie),Emana,13200,14700,13200,13,17,400
+Nsimeyong(pharmacie),(Mission Catholique)Nkozoa,19400,20900,19400,11,11,500
+Nsimeyong(pharmacie),Nlongkak,8200,9700,8200,13,16,250
+Nsimeyong(pharmacie),Anguissa(lycée),8400,9900,8400,15,18,300
+Nsimeyong(pharmacie),Ekounou,6200,7700,6200,10,13,300
+Nsimeyong(pharmacie),Mvan,7700,9200,7700,3,7,300
+Nsimeyong(pharmacie),Mvog-bi,4500,6000,4500,11,15,300
+Nsimeyong(pharmacie),(Basilique Marie Reine des Apotres)Mvolyé,2400,3900,2400,9,12,150
+Nsimeyong(pharmacie),Fouda,6900,8400,6900,15,19,300
+Nsimeyong(pharmacie),Marché central,6500,8000,6500,9,15,250
+Nsimeyong(pharmacie),Mendong(carrefour banane),4000,5500,4000,9,13,200
+Nsimeyong(pharmacie),(Lycée)Mballa II,10200,11700,10200,10,16,400
+Nsimeyong(pharmacie),Cradat(restaurant),2800,4300,2800,4,6,150
+Nsimeyong(pharmacie),Efoulan(carrefour club france),1900,3400,1900,17,23,150
+Nsimeyong(pharmacie),Eleveur (tradex college ebanda),12900,14400,12900,15,17,250
+Nsimeyong(pharmacie),Mvog-ada,6400,7900,6400,10,17,250
+Nsimeyong(pharmacie),hotel de ville(avenue des banques),7300,8800,7300,10,15,250
+Nsimeyong(pharmacie),TKC(carrefour),2800,4300,2800,2,5,100
+Nsimeyong(pharmacie),Carrefour MEEC,5400,6900,5400,17,25,250
+Nsimeyong(pharmacie),Mvog Atangana Mballa(pharmacie),4100,5600,4100,11,14,200
+Nsimeyong(pharmacie),Ngoa Ekélé (lycée),3900,5400,3900,5,9,200
+Nsimeyong(pharmacie),Chateau(Université de Yaoundé I),4200,5700,4200,4,7,150
+Nsimeyong(pharmacie),Ekoundoum,105000,106500,105000,24,25,1000
+Accacia(marché),Etoudi(marché),12700,14200,12700,10,17,500
+Accacia(marché),Santa barbara(cyberlink),13800,15300,13800,11,18,500
+Accacia(marché),Emana,13400,14900,13400,12,19,500
+Accacia(marché),(Mission Catholique)Nkozoa,19700,21200,19700,15,21,500
+Accacia(marché),Nlongkak,8500,10000,8500,9,15,300
+Accacia(marché),Anguissa(lycée),8600,10100,8600,10,16,400
+Accacia(marché),Ekounou,6500,8000,6500,9,19,500
+Accacia(marché),Mvan,9000,10500,9000,10,13,400
+Accacia(marché),Mvog-bi,4800,6300,4800,10,18,300
+Accacia(marché),(Basilique Marie Reine des Apotres)Mvolyé,2700,4200,2700,8,17,250
+Accacia(marché),Fouda,5400,6900,5400,14,18,400
+Accacia(marché),Marché central,6700,8200,6700,15,19,250
+Accacia(marché),Mendong(carrefour banane),3300,4800,3300,10,10,200
+Accacia(marché),(Lycée)Mballa II,10500,12000,10500,9,13,400
+Accacia(marché),Cradat(restaurant),2100,3600,2100,7,14,200
+Accacia(marché),Efoulan(carrefour club france),3000,4500,3000,7,11,250
+Accacia(marché),Eleveur (tradex college ebanda),13200,14700,13200,17,23,500
+Accacia(marché),Mvog-ada,6600,8100,6600,9,15,300
+Accacia(marché),hotel de ville(avenue des banques),7500,9000,7500,10,17,250
+Accacia(marché),TKC(carrefour),2100,3600,2100,4,9,100
+Accacia(marché),Carrefour MEEC,3900,5400,3900,2,5,250
+Accacia(marché),Mvog Atangana Mballa(pharmacie),4400,5900,4400,10,19,250
+Accacia(marché),Ngoa Ekélé (lycée),4200,5700,4200,8,12,200
+Accacia(marché),Chateau(Université de Yaoundé I),4500,6000,4500,7,12,200
+Accacia(marché),Ekoundoum,105000,106500,105000,20,25,800
+Etoudi(marché),Santa barbara(cyberlink),1100,2600,1100,2,2,100
+Etoudi(marché),Emana,1500,3000,1500,3,7,100
+Etoudi(marché),(Mission Catholique)Nkozoa,7800,9300,7800,3,5,150
+Etoudi(marché),Nlongkak,5100,6600,5100,3,6,150
+Etoudi(marché),Anguissa(lycée),8100,9600,8100,8,12,250
+Etoudi(marché),Ekounou,10800,12300,10800,9,19,250
+Etoudi(marché),Mvan,14500,16000,14500,10,13,300
+Etoudi(marché),Mvog-bi,8500,10000,8500,10,18,400
+Etoudi(marché),(Basilique Marie Reine des Apotres)Mvolyé,10200,11700,10200,12,20,300
+Etoudi(marché),Fouda,9800,11300,9800,10,18,250
+Etoudi(marché),Marché central,6400,7900,6400,15,19,250
+Etoudi(marché),Mendong(carrefour banane),15900,17400,15900,10,10,500
+Etoudi(marché),(Lycée)Mballa II,2200,3700,2200,9,13,200
+Etoudi(marché),Cradat(restaurant),9300,10800,9300,15,21,400
+Etoudi(marché),Efoulan(carrefour club france),10400,11900,10400,12,17,300
+Etoudi(marché),Eleveur (tradex college ebanda),5100,6600,5100,17,23,500
+Etoudi(marché),Mvog-ada,8200,9700,8200,9,15,400
+Etoudi(marché),hotel de ville(avenue des banques),5300,6800,5300,10,17,250
+Etoudi(marché),TKC(carrefour),13400,14900,13400,14,19,500
+Etoudi(marché),Carrefour MEEC,10000,11500,10000,12,15,400
+Etoudi(marché),Mvog Atangana Mballa(pharmacie),8700,10200,8700,10,19,400
+Etoudi(marché),Ngoa Ekélé (lycée),8200,9700,8200,8,12,300
+Etoudi(marché),Chateau(Université de Yaoundé I),9100,10600,9100,7,12,300
+Etoudi(marché),Ekoundoum,104000,105500,104000,20,25,700
+Santa barbara(cyberlink),Emana,2600,4100,2600,3,7,150
+Santa barbara(cyberlink),(Mission Catholique)Nkozoa,8900,10400,8900,3,5,300
+Santa barbara(cyberlink),Nlongkak,6200,7700,6200,3,6,250
+Santa barbara(cyberlink),Anguissa(lycée),7900,9400,7900,8,12,400
+Santa barbara(cyberlink),Ekounou,11900,13400,11900,9,19,500
+Santa barbara(cyberlink),Mvan,15600,17100,15600,10,13,500
+Santa barbara(cyberlink),Mvog-bi,9600,11100,9600,10,18,400
+Santa barbara(cyberlink),(Basilique Marie Reine des Apotres)Mvolyé,11300,12800,11300,12,20,400
+Santa barbara(cyberlink),Fouda,10900,12400,10900,10,18,300
+Santa barbara(cyberlink),Marché central,7500,9000,7500,15,19,250
+Santa barbara(cyberlink),Mendong(carrefour banane),17000,18500,17000,10,10,500
+Santa barbara(cyberlink),(Lycée)Mballa II,3700,5200,3700,9,13,250
+Santa barbara(cyberlink),Cradat(restaurant),10400,11900,10400,15,21,400
+Santa barbara(cyberlink),Efoulan(carrefour club france),11500,13000,11500,12,17,500
+Santa barbara(cyberlink),Eleveur (tradex college ebanda),4000,5500,4000,17,23,250
+Santa barbara(cyberlink),Mvog-ada,8300,9800,8300,9,15,400
+Santa barbara(cyberlink),hotel de ville(avenue des banques),6500,8000,6500,10,17,300
+Santa barbara(cyberlink),TKC(carrefour),14500,16000,14500,14,19,500
+Santa barbara(cyberlink),Carrefour MEEC,11100,12600,11100,12,15,500
+Santa barbara(cyberlink),Mvog Atangana Mballa(pharmacie),10200,11700,10200,10,19,400
+Santa barbara(cyberlink),Ngoa Ekélé (lycée),9300,10800,9300,8,12,500
+Santa barbara(cyberlink),Chateau(Université de Yaoundé I),9600,11100,9600,7,12,500
+Santa barbara(cyberlink),Ekoundoum,102000,103500,102000,20,25,800
+Emana,(Mission Catholique)Nkozoa,6400,7900,6400,3,5,150
+Emana,Nlongkak,5800,7300,5800,3,6,200
+Emana,Anguissa(lycée),8800,10300,8800,8,12,300
+Emana,Ekounou,11500,13000,11500,9,19,400
+Emana,Mvan,15200,16700,15200,10,13,500
+Emana,Mvog-bi,9200,10700,9200,10,18,400
+Emana,(Basilique Marie Reine des Apotres)Mvolyé,10900,12400,10900,12,20,400
+Emana,Fouda,10500,12000,10500,10,18,300
+Emana,Marché central,7100,8600,7100,15,19,250
+Emana,Mendong(carrefour banane),16600,18100,16600,10,10,500
+Emana,(Lycée)Mballa II,3000,4500,3000,9,13,250
+Emana,Cradat(restaurant),10000,11500,10000,15,21,400
+Emana,Efoulan(carrefour club france),11200,12700,11200,12,17,500
+Emana,Eleveur (tradex college ebanda),6900,8400,6900,17,23,250
+Emana,Mvog-ada,8900,10400,8900,9,15,400
+Emana,hotel de ville(avenue des banques),6200,7700,6200,10,17,300
+Emana,TKC(carrefour),14200,15700,14200,14,19,500
+Emana,Carrefour MEEC,10700,12200,10700,12,15,500
+Emana,Mvog Atangana Mballa(pharmacie),9400,10900,9400,10,19,400
+Emana,Ngoa Ekélé (lycée),9000,10500,9000,8,12,500
+Emana,Chateau(Université de Yaoundé I),9900,11400,9900,7,12,500
+Emana,Ekoundoum,105000,106500,105000,20,25,800
+(Mission Catholique)Nkozoa,Nlongkak,12100,13600,12100,8,8,250
+(Mission Catholique)Nkozoa,Anguissa(lycée),15100,16600,15100,8,12,400
+(Mission Catholique)Nkozoa,Ekounou,17800,19300,17800,9,19,500
+(Mission Catholique)Nkozoa,Mvan,21500,23000,21500,10,13,500
+(Mission Catholique)Nkozoa,Mvog-bi,15500,17000,15500,10,18,400
+(Mission Catholique)Nkozoa,(Basilique Marie Reine des Apotres)Mvolyé,17200,18700,17200,12,20,400
+(Mission Catholique)Nkozoa,Fouda,16800,18300,16800,10,18,300
+(Mission Catholique)Nkozoa,Marché central,13400,14900,13400,15,19,250
+(Mission Catholique)Nkozoa,Mendong(carrefour banane),22900,24400,22900,10,10,500
+(Mission Catholique)Nkozoa,(Lycée)Mballa II,9600,11100,9600,9,13,250
+(Mission Catholique)Nkozoa,Cradat(restaurant),16300,17800,16300,15,21,400
+(Mission Catholique)Nkozoa,Efoulan(carrefour club france),17400,18900,17400,12,17,500
+(Mission Catholique)Nkozoa,Eleveur (tradex college ebanda),13200,14700,13200,17,23,250
+(Mission Catholique)Nkozoa,Mvog-ada,15200,16700,15200,9,15,400
+(Mission Catholique)Nkozoa,hotel de ville(avenue des banques),12400,13900,12400,10,17,300
+(Mission Catholique)Nkozoa,TKC(carrefour),20400,21900,20400,14,19,500
+(Mission Catholique)Nkozoa,Carrefour MEEC,17000,18500,17000,12,15,500
+(Mission Catholique)Nkozoa,Mvog Atangana Mballa(pharmacie),16100,17600,16100,10,19,400
+(Mission Catholique)Nkozoa,Ngoa Ekélé (lycée),15200,16700,15200,8,12,500
+(Mission Catholique)Nkozoa,Chateau(Université de Yaoundé I),15400,16900,15400,7,12,500
+(Mission Catholique)Nkozoa,Ekoundoum,111000,112500,111000,20,25,800
+Nlongkak,Anguissa(lycée),3900,5400,3900,10,15,250
+Nlongkak,Ekounou,6600,8100,6600,13,20,250
+Nlongkak,Mvan,10300,11800,10300,14,19,350
+Nlongkak,Mvog-bi,4300,5800,4300,11,14,200
+Nlongkak,(Basilique Marie Reine des Apotres)Mvolyé,6000,7500,6000,12,17,250
+Nlongkak,Fouda,6000,7500,6000,8,10,200
+Nlongkak,Marché central,2200,3700,2200,17,21,150
+Nlongkak,Mendong(carrefour banane),11700,13200,11700,12,17,350
+Nlongkak,(Lycée)Mballa II,2900,4400,2900,10,12,150
+Nlongkak,Cradat(restaurant),5100,6600,5100,15,17,250
+Nlongkak,Efoulan(carrefour club france),6200,7700,6200,13,18,250
+Nlongkak,Eleveur (tradex college ebanda),6900,8400,6900,15,17,300
+Nlongkak,Mvog-ada,2100,3600,2100,11,14,200
+Nlongkak,hotel de ville(avenue des banques),1100,2600,1100,11,11,100
+Nlongkak,TKC(carrefour),8900,10400,8900,10,15,350
+Nlongkak,Carrefour MEEC,5800,7300,5800,3,9,200
+Nlongkak,Mvog Atangana Mballa(pharmacie),4900,6400,4900,14,19,200
+Nlongkak,Ngoa Ekélé (lycée),4000,5500,4000,15,17,250
+Nlongkak,Chateau(Université de Yaoundé I),4200,5700,4200,14,17,250
+Nlongkak,Ekoundoum,101000,102500,101000,30,35,1500
+Anguissa(lycée),Ekounou,3700,5200,3700,11,14,250
+Anguissa(lycée),Mvan,7400,8900,7400,10,19,400
+Anguissa(lycée),Mvog-bi,2800,4300,2800,9,13,300
+Anguissa(lycée),(Basilique Marie Reine des Apotres)Mvolyé,5700,7200,5700,9,14,300
+Anguissa(lycée),Fouda,8300,9800,8300,13,18,300
+Anguissa(lycée),Marché central,4100,5600,4100,10,14,250
+Anguissa(lycée),Mendong(carrefour banane),11400,12900,11400,15,17,250
+Anguissa(lycée),(Lycée)Mballa II,5700,7200,5700,8,17,400
+Anguissa(lycée),Cradat(restaurant),6400,7900,6400,8,17,250
+Anguissa(lycée),Efoulan(carrefour club france),5900,7400,5900,7,13,300
+Anguissa(lycée),Eleveur (tradex college ebanda),6300,7800,6300,4,6,150
+Anguissa(lycée),Mvog-ada,1700,3200,1700,10,14,250
+Anguissa(lycée),hotel de ville(avenue des banques),4400,5900,4400,9,13,250
+Anguissa(lycée),TKC(carrefour),10100,11600,10100,13,17,250
+Anguissa(lycée),Carrefour MEEC,8000,9500,8000,9,15,400
+Anguissa(lycée),Mvog Atangana Mballa(pharmacie),4600,6100,4600,10,15,400
+Anguissa(lycée),Ngoa Ekélé (lycée),5800,7300,5800,7,14,200
+Anguissa(lycée),Chateau(Université de Yaoundé I),5600,7100,5600,6,13,300
+Anguissa(lycée),Ekoundoum,97400,98900,97400,21,35,1000
+Ekounou,Mvan,5200,6700,5200,10,19,250
+Ekounou,Mvog-bi,2300,3800,2300,9,13,250
+Ekounou,(Basilique Marie Reine des Apotres)Mvolyé,4000,5500,4000,9,14,350
+Ekounou,Fouda,9100,10600,9100,13,18,300
+Ekounou,Marché central,4800,6300,4800,10,14,250
+Ekounou,Mendong(carrefour banane),9700,11200,9700,15,17,400
+Ekounou,(Lycée)Mballa II,8600,10100,8600,8,17,500
+Ekounou,Cradat(restaurant),6100,7600,6100,8,17,400
+Ekounou,Efoulan(carrefour club france),4300,5800,4300,7,13,300
+Ekounou,Eleveur (tradex college ebanda),11000,12500,11000,4,6,500
+Ekounou,Mvog-ada,4400,5900,4400,10,14,300
+Ekounou,hotel de ville(avenue des banques),5600,7100,5600,9,13,250
+Ekounou,TKC(carrefour),8500,10000,8500,13,17,400
+Ekounou,Carrefour MEEC,7600,9100,7600,9,15,400
+Ekounou,Mvog Atangana Mballa(pharmacie),2400,4000,2500,10,15,300
+Ekounou,Ngoa Ekélé (lycée),4700,6200,4700,7,14,250
+Ekounou,Chateau(Université de Yaoundé I),5600,7100,5600,6,13,250
+Ekounou,Ekoundoum,99800,101300,99800,21,35,1500
+Mvan,Mvog-bi,5600,7100,5600,11,18,300
+Mvan,(Basilique Marie Reine des Apotres)Mvolyé,7600,9100,7600,15,17,300
+Mvan,Fouda,11800,13300,11800,8,17,400
+Mvan,Marché central,8400,9900,8400,9,15,300
+Mvan,Mendong(carrefour banane),10900,12400,10900,10,16,400
+Mvan,(Lycée)Mballa II,12200,13700,12200,9,19,400
+Mvan,Cradat(restaurant),8700,10200,8700,12,21,300
+Mvan,Efoulan(carrefour club france),7100,8600,7100,16,16,300
+Mvan,Eleveur (tradex college ebanda),14200,15700,14200,18,21,500
+Mvan,Mvog-ada,7600,9100,7600,11,19,300
+Mvan,hotel de ville(avenue des banques),9200,10700,9200,9,14,300
+Mvan,TKC(carrefour),9900,11400,9900,15,22,400
+Mvan,Carrefour MEEC,10300,11800,10300,17,24,400
+Mvan,Mvog Atangana Mballa(pharmacie),5300,6800,5300,13,21,500
+Mvan,Ngoa Ekélé (lycée),7400,8900,7400,12,19,300
+Mvan,Chateau(Université de Yaoundé I),8200,9700,8200,12,19,300
+Mvan,Ekoundoum,102000,103500,102000,25,31,1500
+Mvog-bi,(Basilique Marie Reine des Apotres)Mvolyé,2500,4000,2500,8,12,250
+Mvog-bi,Fouda,6700,8200,6700,10,16,250
+Mvog-bi,Marché central,2500,4000,2500,8,12,150
+Mvog-bi,Mendong(carrefour banane),8200,9700,8200,13,15,300
+Mvog-bi,(Lycée)Mballa II,6200,7700,6200,8,14,250
+Mvog-bi,Cradat(restaurant),4500,6000,4500,8,16,300
+Mvog-bi,Efoulan(carrefour club france),2700,4200,2700,9,13,250
+Mvog-bi,Eleveur (tradex college ebanda),8700,10200,8700,14,16,500
+Mvog-bi,Mvog-ada,2100,3600,2100,5,7,150
+Mvog-bi,hotel de ville(avenue des banques),3500,5000,3500,10,12,250
+Mvog-bi,TKC(carrefour),6900,8400,6900,18,25,300
+Mvog-bi,Carrefour MEEC,6400,7900,6400,9,13,300
+Mvog-bi,Mvog Atangana Mballa(pharmacie),850,2350,850,7,8,100
+Mvog-bi,Ngoa Ekélé (lycée),3900,5400,3900,9,15,300
+Mvog-bi,Chateau(Université de Yaoundé I),4100,5600,4100,9,15,300
+Mvog-bi,Ekoundoum,100000,101500,100000,21,24,1500
+(Basilique Marie Reine des Apotres)Mvolyé,Fouda,6300,7800,6300,17,24,250
+(Basilique Marie Reine des Apotres)Mvolyé,Marché central,4200,5700,4200,10,14,200
+(Basilique Marie Reine des Apotres)Mvolyé,Mendong(carrefour banane),5800,7300,5800,18,20,250
+(Basilique Marie Reine des Apotres)Mvolyé,(Lycée)Mballa II,7900,9400,7900,13,18,300
+(Basilique Marie Reine des Apotres)Mvolyé,Cradat(restaurant),2200,3700,2200,9,11,150
+(Basilique Marie Reine des Apotres)Mvolyé,Efoulan(carrefour club france),500,2000,500,7,11,150
+(Basilique Marie Reine des Apotres)Mvolyé,Eleveur (tradex college ebanda),10700,12200,10700,15,18,500
+(Basilique Marie Reine des Apotres)Mvolyé,Mvog-ada,4100,5600,4100,8,12,200
+(Basilique Marie Reine des Apotres)Mvolyé,hotel de ville(avenue des banques),5000,6500,5000,10,14,250
+(Basilique Marie Reine des Apotres)Mvolyé,TKC(carrefour),4600,6100,4600,11,19,250
+(Basilique Marie Reine des Apotres)Mvolyé,Carrefour MEEC,4800,6300,4800,14,18,250
+(Basilique Marie Reine des Apotres)Mvolyé,Mvog Atangana Mballa(pharmacie),1900,1900,1900,8,12,200
+(Basilique Marie Reine des Apotres)Mvolyé,Ngoa Ekélé (lycée),3200,4600,3200,10,13,200
+(Basilique Marie Reine des Apotres)Mvolyé,Chateau(Université de Yaoundé I),3600,5000,3600,11,14,200
+(Basilique Marie Reine des Apotres)Mvolyé,Ekoundoum,102000,103400,102000,23,28,1500
+Fouda,Marché central,2100,3500,2100,10,15,250
+Fouda,Mendong(carrefour banane),11000,12400,11000,18,24,400
+Fouda,(Lycée)Mballa II,4200,5600,4200,12,16,250
+Fouda,Cradat(restaurant),6000,7400,6000,17,17,300
+Fouda,Efoulan(carrefour club france),5500,6900,5500,16,19,300
+Fouda,Eleveur (tradex college ebanda),5100,6500,5100,12,15,250
+Fouda,Mvog-ada,1600,3000,1600,16,16,300
+Fouda,hotel de ville(avenue des banques),2900,4300,2900,9,11,250
+Fouda,TKC(carrefour),9800,11200,9800,16,20,400
+Fouda,Carrefour MEEC,6800,8200,6800,14,19,400
+Fouda,Mvog Atangana Mballa(pharmacie),4200,5600,4200,16,18,300
+Fouda,Ngoa Ekélé (lycée),5000,6400,5000,15,18,300
+Fouda,Chateau(Université de Yaoundé I),5200,6600,5200,15,18,300
+Fouda,Ekoundoum,99300,100700,99300,23,30,1500
+Marché central,Mendong(carrefour banane),9800,11200,9800,16,22,300
+Marché central,(Lycée)Mballa II,4200,5600,4200,15,19,200
+Marché central,Cradat(restaurant),3600,5000,3600,13,19,250
+Marché central,Efoulan(carrefour club france),4400,5800,4400,12,18,300
+Marché central,Eleveur (tradex college ebanda),7200,8600,7200,16,21,300
+Marché central,Mvog-ada,2100,3500,2100,8,12,200
+Marché central,hotel de ville(avenue des banques),1000,2400,1000,6,11,150
+Marché central,TKC(carrefour),8600,10000,8600,14,20,250
+Marché central,Carrefour MEEC,4800,6200,4800,18,19,250
+Marché central,Mvog Atangana Mballa(pharmacie),7200,4100,2700,10,14,250
+Marché central,Ngoa Ekélé (lycée),2500,3900,2500,15,16,250
+Marché central,Chateau(Université de Yaoundé I),3400,4800,3400,15,16,250
+Marché central,Ekoundoum,100000,101400,100000,27,32,1450
+Mendong(carrefour banane),(Lycée)Mballa II,12400,13800,12400,18,23,400
+Mendong(carrefour banane),Cradat(restaurant),4600,6000,4600,11,17,250
+Mendong(carrefour banane),Efoulan(carrefour club france),6200,7600,6200,16,20,300
+Mendong(carrefour banane),Eleveur (tradex college ebanda),16400,17800,16400,18,24,400
+Mendong(carrefour banane),Mvog-ada,9800,11200,9800,13,20,250
+Mendong(carrefour banane),hotel de ville(avenue des banques),9400,10800,9400,14,18,300
+Mendong(carrefour banane),TKC(carrefour),1300,2700,1300,4,8,100
+Mendong(carrefour banane),Carrefour MEEC,5500,6900,5500,12,12,250
+Mendong(carrefour banane),Ngoa Ekélé (lycée),7000,8400,7000,13,16,250
+Mendong(carrefour banane),Chateau(Université de Yaoundé I),6100,7500,6100,13,16,250
+Mendong(carrefour banane),Ekoundoum,108000,109400,108000,32,36,1400
+(Lycée)Mballa II,Cradat(restaurant),7000,8400,7000,15,19,300
+(Lycée)Mballa II,Efoulan(carrefour club france),8100,9500,8100,9,14,400
+(Lycée)Mballa II,Eleveur (tradex college ebanda),6400,7800,6400,12,15,250
+(Lycée)Mballa II,Mvog-ada,5900,7300,5900,9,13,300
+(Lycée)Mballa II,hotel de ville(avenue des banques),3100,4500,3100,13,14,200
+(Lycée)Mballa II,TKC(carrefour),11100,12500,11100,17,23,400
+(Lycée)Mballa II,Carrefour MEEC,7700,9100,7700,17,21,400
+(Lycée)Mballa II,Mvog Atangana Mballa(pharmacie),6800,8200,6800,10,12,300
+(Lycée)Mballa II,Ngoa Ekélé (lycée),5900,7300,5900,7,21,400
+(Lycée)Mballa II,Chateau(Université de Yaoundé I),6100,7500,6100,8,21,400
+(Lycée)Mballa II,Ekoundoum,102000,103400,102000,28,32,700
+Cradat(restaurant),Efoulan(carrefour club france),2400,3800,2400,13,20,300
+Cradat(restaurant),Eleveur (tradex college ebanda),11400,12800,11400,12,16,400
+Cradat(restaurant),Mvog-ada,4800,6200,4800,8,8,250
+Cradat(restaurant),hotel de ville(avenue des banques),4100,5500,4100,11,14,250
+Cradat(restaurant),TKC(carrefour),3400,4800,3400,8,9,250
+Cradat(restaurant),Carrefour MEEC,3200,4600,3200,13,18,250
+Cradat(restaurant),Mvog Atangana Mballa(pharmacie),3500,4900,3500,10,12,250
+Cradat(restaurant),Ngoa Ekélé (lycée),1200,2600,1200,2,6,100
+Cradat(restaurant),Chateau(Université de Yaoundé I),1000,2400,1000,2,8,100
+Cradat(restaurant),Ekoundoum,103000,104400,103000,25,30,2000
+Efoulan(carrefour club france),Eleveur (tradex college ebanda),11100,12500,11100,15,18,400
+Efoulan(carrefour club france),Mvog-ada,4500,5900,4500,8,12,300
+Efoulan(carrefour club france),hotel de ville(avenue des banques),5400,6800,5400,10,14,250
+Efoulan(carrefour club france),TKC(carrefour),5000,6400,5000,11,19,250
+Efoulan(carrefour club france),Carrefour MEEC,5200,6600,5200,14,18,300
+Efoulan(carrefour club france),Mvog Atangana Mballa(pharmacie),2100,3500,2100,8,12,300
+Efoulan(carrefour club france),Ngoa Ekélé (lycée),3500,4900,3500,10,13,300
+Efoulan(carrefour club france),Chateau(Université de Yaoundé I),4400,5800,4400,11,14,300
+Efoulan(carrefour club france),Ekoundoum,103000,104400,103000,24,39,2000
+Eleveur (tradex college ebanda),Mvog-ada,6700,8100,6700,6,9,250
+Eleveur (tradex college ebanda),hotel de ville(avenue des banques),7200,8600,7200,5,10,250
+Eleveur (tradex college ebanda),TKC(carrefour),14900,16300,14900,13,15,500
+Eleveur (tradex college ebanda),Carrefour MEEC,11800,13200,11800,11,19,400
+Eleveur (tradex college ebanda),Mvog Atangana Mballa(pharmacie),9300,10700,9300,5,9,250
+Eleveur (tradex college ebanda),Ngoa Ekélé (lycée),10000,11400,10000,7,18,250
+Eleveur (tradex college ebanda),Chateau(Université de Yaoundé I),10200,11600,10200,17,20,250
+Eleveur (tradex college ebanda),Ekoundoum,99300,100700,99300,27,30,1200
+Mvog-ada,hotel de ville(avenue des banques),3100,4500,3100,10,12,250
+Mvog-ada,TKC(carrefour),8400,9800,8400,18,25,300
+Mvog-ada,Carrefour MEEC,6300,7700,6300,9,13,250
+Mvog-ada,Mvog Atangana Mballa(pharmacie),2300,3700,2300,7,8,175
+Mvog-ada,Ngoa Ekélé (lycée),3600,5000,3600,9,15,250
+Mvog-ada,Chateau(Université de Yaoundé I),4500,5900,4500,9,15,250
+Mvog-ada,Ekoundoum,98400,99800,98400,21,24,1250
+hotel de ville(avenue des banques),TKC(carrefour),9100,10500,9100,24,30,300
+hotel de ville(avenue des banques),Carrefour MEEC,5800,7200,5800,18,19,250
+hotel de ville(avenue des banques),Mvog Atangana Mballa(pharmacie),3500,4900,3500,10,14,250
+hotel de ville(avenue des banques),Ngoa Ekélé (lycée),3600,5000,3600,15,16,250
+hotel de ville(avenue des banques),Chateau(Université de Yaoundé I),3800,5200,3800,15,16,250
+hotel de ville(avenue des banques),Ekoundoum,101000,102400,101000,20,25,1200
+TKC(carrefour),Carrefour MEEC,4200,5600,4200,12,12,250
+TKC(carrefour),Mvog Atangana Mballa(pharmacie),5800,7200,5800,23,23,250
+TKC(carrefour),Ngoa Ekélé (lycée),5800,7200,5800,13,16,250
+TKC(carrefour),Chateau(Université de Yaoundé I),4800,6200,4800,13,16,250
+TKC(carrefour),Ekoundoum,107000,108400,107000,32,36,1400
+Carrefour MEEC,Mvog Atangana Mballa(pharmacie),4900,6300,4900,14,14,250
+Carrefour MEEC,Ngoa Ekélé (lycée),3000,4400,3000,10,11,250
+Carrefour MEEC,Chateau(Université de Yaoundé I),4200,5600,4200,10,11,250
+Carrefour MEEC,Ekoundoum,104000,105400,104000,23,30,1300
+Mvog Atangana Mballa(pharmacie),Ngoa Ekélé (lycée),2000,3400,2000,8,9,150
+Mvog Atangana Mballa(pharmacie),Chateau(Université de Yaoundé I),2300,3700,2300,9,10,150
+Mvog Atangana Mballa(pharmacie),Ekoundoum,101000,102400,101000,20,27,1300
+Ngoa Ekélé (lycée),Chateau(Université de Yaoundé I),350,1750,350,1,1,100
+Ngoa Ekélé (lycée),Ekoundoum,102000,103400,102000,13,14,400
+Chateau(Université de Yaoundé I),Ekoundoum,102000,103400,102000,23,25,1400
