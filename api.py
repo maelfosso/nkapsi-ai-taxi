@@ -31,9 +31,9 @@ def predict(origins, destinations):
     }
 
     # Calculate directions
-    # direction_results = gmaps.distance_matrix(origins, destinations, mode='driving')
+    # results = gmaps.distance_matrix(origins, destinations, mode='driving')
     results = gmaps.directions(origins, destinations, mode='driving')
-
+    print(results)
     result = results[0]
     result = result["legs"][0]
     print(result)
